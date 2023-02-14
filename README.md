@@ -1,6 +1,6 @@
 # Eth-Price
 
-![download (1)](https://user-images.githubusercontent.com/75095471/218546000-b90fad9f-5013-45e5-92b1-372b95759571.jpeg)
+![ethereum-1](https://user-images.githubusercontent.com/75095471/218719850-1dd5166b-1295-49c4-9b6c-878c13524c89.jpeg)
 
 ## what is Ethereum?
 Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH or Ξ) is the native cryptocurrency of the platform. After Bitcoin, it is the largest cryptocurrency by market capitalization. Ethereum is the most actively used blockchain. Ethereum was proposed in 2013 by programmer Vitalik Buterin.
